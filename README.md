@@ -1,4 +1,4 @@
-### Hi there 👋
+### 이게 유행이라며? 👋
 
 <!--
 **JUNWOO45/JUNWOO45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
